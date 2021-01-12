@@ -26,7 +26,7 @@
 2. Build
 3. Install 
 
-Full instruction for getting the latest and greatest version is below
+## Full instruction for getting the latest and greatest version is below
 ```
 git clone https://github.com/google/googletest
 cd googletest
